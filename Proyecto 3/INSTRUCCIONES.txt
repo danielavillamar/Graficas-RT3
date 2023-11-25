@@ -1,0 +1,5 @@
+Teclas: 1-5 cambiar modelo
+Teclas: 6-0 cambiar shader
+Teclas: WASD rotar modelo
+Mantener click derecho + girar mouse: Rotar cámara
+Scroll mouse: zoom in y zoom out
